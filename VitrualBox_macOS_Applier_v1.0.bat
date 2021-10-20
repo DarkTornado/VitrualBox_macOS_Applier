@@ -5,6 +5,8 @@ title VitrualBox macOS Applier (v 1.0)
 :MAIN
 cls
 echo ========== [ VitrualBox macOS Applier (v 1.0) ] ==========
+echo ¨Ï 2021 Dark Tornado, All rights reserved.
+echo.
 echo Input 0 to quit or input any number to start.
 set /p input=input: 
 if %input% == 0 exit
@@ -20,6 +22,7 @@ cls
 cd "C:\Program Files\Oracle\VirtualBox"
 title VitrualBox macOS Applier (v 1.0) - %name%
 echo ========== [ VitrualBox macOS Applier (v 1.0) ] ==========
+echo ¨Ï 2021 Dark Tornado, All rights reserved.
 echo.
 echo === [ Select Action (%name%) ] ===
 echo 1. Add ExtraData to Vitrual Machine for using macOS on VitrualBox.

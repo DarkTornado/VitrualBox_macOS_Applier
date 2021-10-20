@@ -5,6 +5,8 @@ title VitrualBox macOS 적용기 (v 1.0)
 :MAIN
 cls
 echo ========== [ VitrualBox macOS 적용기 (v 1.0) ] ==========
+echo ⓒ 2021 Dark Tornado, All rights reserved.
+echo.
 echo 종료를 원한다면 0을, 계속 실행하기를 원한다면 아무거나 입력해주세요.
 set /p input=입력: 
 if %input% == 0 exit
@@ -20,6 +22,7 @@ cls
 cd "C:\Program Files\Oracle\VirtualBox"
 title VitrualBox macOS 적용기 (v 1.0) - %name%
 echo ========== [ VitrualBox macOS 적용기 (v 1.0) ] ==========
+echo ⓒ 2021 Dark Tornado, All rights reserved.
 echo.
 echo === [ 메뉴 (%name%) ] ===
 echo 1. VitrualBox에서 macOS를 사용하기 위한 ExtraData 설정.
