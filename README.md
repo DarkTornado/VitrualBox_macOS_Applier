@@ -13,7 +13,7 @@
 
 ## Download / 다운로드
 * [English Version](./VitrualBox_macOS_Applier_v1.0.bat)
-* [Korean Version / 한국어 버전](./VitrualBox_macOS_Applier_v1.0_ko.bat)
+* [한국어 버전 (Korean Version)](./VitrualBox_macOS_Applier_v1.0_ko.bat)
 
 ## License / 라이선스
 * CCL BY-NC 4.0 (저작자 표시, 영리적 이용 금지)
